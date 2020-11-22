@@ -1,5 +1,7 @@
-***Proyecto 1er trimestre***
-**Hospital**
+#**Proyecto 1er trimestre**
+
+##**Hospital**
+
 Base de datos de estructura básica sobre un hospital.
 
 Contiene 4 colecciones con 20 documentos cada una:
@@ -15,7 +17,7 @@ Contiene 4 colecciones con 20 documentos cada una:
 
 
 
-**Documentos de la colección**
+##**Documentos de la colección**
 
 La carpeta *doc* contiene un pdf con una breve explicación del proyecto.
 
